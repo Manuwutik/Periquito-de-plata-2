@@ -4,4 +4,4 @@ fue configurar el HEX, en él pusimos los dos servidores DHCP, las ips, los salt
 Por último configuramos el HAP, en el pusimos las ips y las VLAN's. Por supuesto en cada uno de ellos añadimos los bridge correspondientes a las VLAN's que configuramos previamente.
 
 # Extra:
-Intentamos conectarnos con otro grupo de clase, para ello en el HEX desactivamos el firewall para que no nos de problemas y configuramos RIP correctamente añadiendo las networks que necesitavamos.
+Intentamos conectarnos con otro grupo de clase, para ello en el HEX desactivamos el firewall para que no nos de problemas y configuramos RIP correctamente añadiendo las networks que necesitabamos.
