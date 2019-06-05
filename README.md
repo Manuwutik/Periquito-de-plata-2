@@ -5,3 +5,5 @@ Por último configuramos el HAP, en el pusimos las ips y las VLAN's. Por supuest
 
 # Extra:
 Intentamos conectarnos con otro grupo de clase, para ello en el HEX desactivamos el firewall para que no nos de problemas y configuramos RIP correctamente añadiendo las networks que necesitabamos.
+
+https://www.youtube.com/watch?v=1hgnME6RKQs
